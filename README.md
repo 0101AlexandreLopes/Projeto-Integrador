@@ -5,5 +5,5 @@ Fiz uma Pasta Pesquisa para colocarmos tudo relacionado à epsquisa nessa pasta.
 A nossa colega Carol inseriu um png e o link do formulario. Muto legal.
 Nosso "TIME" está começando a andar.
 
-Aqui podemos inserir Links também.
+Aqui podemos inserir Links tambem.
 
