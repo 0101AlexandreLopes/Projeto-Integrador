@@ -11,3 +11,5 @@ Pessoal, nosso questionario será enriquecido com a contribuição de cada um. T
 
 https://docs.google.com/forms/d/1Ucpq6QRAc2drvpLVwhOgoRbfNJK0N8ARo1FYcd5feqA/edit?hl=pt-br
 
+Legal demmais ver que todos estão participando e contribuindo para o noso Projeto.
+Vamos em Frente. Vamos com Tudo!
