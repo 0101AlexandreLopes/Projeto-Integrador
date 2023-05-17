@@ -1,0 +1,46 @@
+Storytelling do projeto:
+
+Objetivo: Auxiliar os gestores da Ipiranga na tomada de decisão para focar no que funciona e na melhora dos seus serviços visando o crescimento da empresa.
+Apresentaremos as questões negativas da percepção do cliente em relação à marca relacionando idade, sexo, tipo de veículo, necessidade de abastecimento e uso do app. 
+Apresentaremos principalmente as questões com o uso do programa KM de vantagens. 
+No relatório, colocaremos nossas percepções finais sobre o case trabalhado baseado nas respostas da pesquisa fazendo sugestões de melhora e mostrando o que faz o cliente querer voltar.
+DIRECIONADO PRINCIPALMENTRE PRO APP
+
+
+
+Dashboard
+front por temas: 
+ipiranga: azul #040abf e azul #070ff5, amarelo #f4d528, laranja #cc8a10, losangos arredondados, fonte arial nova bold.
+conveniência/ampm: vermelho #f42828 e roxo #591efa roxo escuro #331682, degradê de amarelo #f5d902 pra vermelho, #f5d902 sorrisinho convexo pra baixo #f42828.
+jet oil: mesmo que o ipiranga, invertendo o azul e o amarelo
+km de vantagens: azul claro #4f8df7, azul escuro #033a99, vermelho #f42828 
+
+
+Planejamento do dash por página
+1. Quem abastece ?
+a. Sexo
+b. Faixa etária
+c. EAR 
+d. Combustível utilizado
+e. Frequência de abastecimento
+f. Quantos estão em algum programa de fidelidade
+
+
+2. Preferência de posto
+a. o posto de referência é o que fica mais próximo?
+b. Escolha do posto pela bandeira
+c. Entre preço e qualidade do combustível 
+d. importância da loja de conveniência e se há consumo
+e. utiliza serviços auxiliares?
+
+3. Programa de fidelidade
+a. quantos estão em algum programa de fidelidade 
+b. o que leva a participar 
+c. conhece ou participa do km de vantagens
+d. km de vantagens sendo utilizado na prática 
+
+4. Considerações finais
+a. o que faz abastecer em um posto
+b. o que faz querer voltar
+c. Quantos preferem a ipiranga 
+d. recomendaria a ipiranga?
