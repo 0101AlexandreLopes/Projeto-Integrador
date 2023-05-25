@@ -1,5 +1,6 @@
 # Projeto-Integrador
 Projeto Curso Gama
+
 Amigos, vamos deixar aqui as nossas observações, prints e arquivos do Projeto
 Fiz uma Pasta Pesquisa para colocarmos tudo relacionado à pesquisa nessa pasta. 
 Nosso "TIME" está começando a andar.
