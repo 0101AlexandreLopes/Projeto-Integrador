@@ -13,3 +13,5 @@ https://docs.google.com/forms/d/1Ucpq6QRAc2drvpLVwhOgoRbfNJK0N8ARo1FYcd5feqA/edi
 
 Legal demais ver que todos estão participando e contribuindo para o noso Projeto.
 Vamos em Frente. Vamos com Tudo!
+
+Link Trello: https://trello.com/b/5XxPQCMn/equipe-vitoriosa
