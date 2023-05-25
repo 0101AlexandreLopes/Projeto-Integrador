@@ -1,0 +1,9 @@
+Criado um esboço do que eu enxergava pro nosso dashboard, nos reunimos e decidimos utilizar uma interface interativa. 
+Originalmente, havia criado 4 páginas de gráficos. Ficou maçante e sem foco.
+
+Para mudar isso:
+1. Transformei em segmentação de dados "Sexo", "Faixa Etária", "Exerce Atividade Remunerada ao Volante" e "Vínculo com Programa de  Fidelidade" 
+2. Agora mostramos quantas pessoas responderam de acordo com as opções selecionadas na segmentação de dados.
+3. Focamos nas preferências e necessidades dos consumidores para mostrar onde o programa de vantagens da Ipiranga, o KM de Vantagens, pode focar os benefícios e recompensas para atrair e manter a sua clientela.
+
+Feita a base do dashboard, a colaboradora Carol dará os toques finais ;)
