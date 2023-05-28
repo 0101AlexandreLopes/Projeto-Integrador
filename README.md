@@ -13,4 +13,3 @@ Vamos em Frente. Vamos com Tudo!
 
 Link Trello: https://trello.com/invite/b/5XxPQCMn/ATTI15af589009911cddae6c79ae891053227CCF937C/equipe-vitoriosa
 
-Link da apresentação no Power BI: https://app.powerbi.com/view?r=eyJrIjoiZDY5NzZjNmItN2Q0NC00NGYyLTgwZjItMjI0MjhhYzUyYjc1IiwidCI6IjQ5NDIxYjJkLTlkZmEtNGQzYi1iMGYzLWQ5NmE2YzQ2NWVmMyJ9&pageName=ReportSection3fe8c519de97a11dda2f
