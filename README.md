@@ -2,7 +2,8 @@
 Projeto Curso Gama
 
 Amigos, vamos deixar aqui as nossas observações, prints e arquivos do Projeto
-Fiz uma Pasta Pesquisa para colocarmos tudo relacionado à pesquisa nessa pasta. 
+Fiz uma Pasta Pesquisa para colocarmos tudo relacionado à pesquisa nessa pasta.
+Também abri uma Issue para conversarmos.
 Nosso "TIME" está começando a andar.
 
 Vamos em Frente. Vamos com Tudo!
