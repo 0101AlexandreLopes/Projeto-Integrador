@@ -18,3 +18,5 @@ Montagem da Base de Dados na Planilha:  https://forms.gle/Q4RfjJzFpTWYnM1M9
 
 
 Link Dashboard: https://app.powerbi.com/view?r=eyJrIjoiM2UxYjQwNjEtMjE0Ni00YTg3LTkyMDctNDM1ZTlmN2YzM2YxIiwidCI6IjQ5NDIxYjJkLTlkZmEtNGQzYi1iMGYzLWQ5NmE2YzQ2NWVmMyJ9&pageName=ReportSection
+
+![Apresentação1](https://github.com/0101AlexandreLopes/Projeto-Integrador/assets/132711465/c436251b-b97a-4806-82c6-70398b93602e)
