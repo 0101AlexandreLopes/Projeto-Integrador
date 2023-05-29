@@ -14,3 +14,5 @@ Link Trello: https://trello.com/invite/b/5XxPQCMn/ATTI15af589009911cddae6c79ae89
 
 Montagem da Base de Dados na Planilha:  https://forms.gle/Q4RfjJzFpTWYnM1M9
 
+
+Link Dashboard: https://app.powerbi.com/view?r=eyJrIjoiM2UxYjQwNjEtMjE0Ni00YTg3LTkyMDctNDM1ZTlmN2YzM2YxIiwidCI6IjQ5NDIxYjJkLTlkZmEtNGQzYi1iMGYzLWQ5NmE2YzQ2NWVmMyJ9&pageName=ReportSection
