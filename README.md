@@ -12,3 +12,7 @@ https://docs.google.com/forms/d/1Ucpq6QRAc2drvpLVwhOgoRbfNJK0N8ARo1FYcd5feqA/edi
 Vamos em Frente. Vamos com Tudo!
 
 Link Trello: https://trello.com/invite/b/5XxPQCMn/ATTI15af589009911cddae6c79ae891053227CCF937C/equipe-vitoriosa
+
+
+Montagem da Base de Dados na Planilha:  https://forms.gle/Q4RfjJzFpTWYnM1M9
+
