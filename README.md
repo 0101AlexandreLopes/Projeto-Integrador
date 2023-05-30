@@ -24,4 +24,18 @@ Apresentação Grupo I:
 https://docs.google.com/presentation/d/1NgpZaifJOt_UZ4RL2JNgJw_Et97kHOoGE_VoLNlt0Ts/edit?usp=sharing
 
 
+Grupo 01
+
+Alexandre da Silva Lopes
+
+Mariane Roberta dos Santos Martins
+
+Ana Clara Martins Damasceno
+
+Renato Daniel Barbosa Paula
+
+Caroline de Castro Artilheiro
+Tiago Bittencourt
+
+
 ![Apresentação1](https://github.com/0101AlexandreLopes/Projeto-Integrador/assets/132711465/c436251b-b97a-4806-82c6-70398b93602e)
